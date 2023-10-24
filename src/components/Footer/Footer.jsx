@@ -56,7 +56,7 @@ const Footer = () => {
           <span className="text">
             AnvSTORE 2022 CREATED BY ANSH PREMIUM E-COMMERCE SOLUTIONS.
           </span>
-          <img src={Payment} />
+          <img src={Payment} alt="img" />
         </div>
       </div>
     </div>
